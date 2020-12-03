@@ -1,10 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
 import styles from './App.module.scss';
 
 function App() {
   return (
-    <div>
+    <div className={'bg-primary'}>
       Hello world
     </div>
   );
